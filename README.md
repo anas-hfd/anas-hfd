@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from Morocco</h3>
 <img align="right" alt="codingGIF" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **React, MERN**
 
